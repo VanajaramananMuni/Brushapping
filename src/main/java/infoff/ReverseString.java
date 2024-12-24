@@ -22,6 +22,8 @@ public class ReverseString {
 			
 			
 			System.out.print(cc[i]);
+
+			
 		}
 		
 		
