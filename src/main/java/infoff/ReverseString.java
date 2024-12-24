@@ -18,6 +18,8 @@ public class ReverseString {
 		String[] cc = name.split("");
 		
 		for(int i =cc.length-1 ; i>=0; i--) {
+
+			
 			
 			System.out.print(cc[i]);
 		}
